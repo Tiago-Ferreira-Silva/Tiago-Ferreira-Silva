@@ -1,8 +1,6 @@
 >### Oi ! Eu sou o Tiago 🧑🏾‍💻<br><br>
 
-<div >
-    <img src="https://i.pinimg.com/originals/24/54/5f/24545f9a8169fbe62141bc338d91ad4f.gif"  align="right"  style="margin-right:100px">
-</div>
+
 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-ferreira-silva-/)
